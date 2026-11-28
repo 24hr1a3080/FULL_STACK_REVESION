@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "FULL_STACK_REVESION/Day2",
+        "FULL_STACK_REVESION/DAY1",
+        "FULL_STACK_REVESION/Day6"
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\mysql-connector-j-26.10.0.jar"
+    ]
+}
